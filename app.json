@@ -1,0 +1,15 @@
+{
+	"name": "Vineet's Torrent",
+	"website": "https://github.com/jpillora/cloud-torrent",
+	"repository": "https://github.com/jpillora/cloud-torrent",
+	"env": {
+		"TITLE": {
+			"description": "Vineet's Torrent",
+			"required": false
+		},
+		"AUTH": {
+			"description": "Optional HTTP authentication in the form user:password",
+			"required": false
+		}
+	}
+}
