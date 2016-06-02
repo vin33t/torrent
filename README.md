@@ -23,13 +23,13 @@ See [the latest release](https://github.com/vineet9/torrent)
 *[Go](https://golang.org/dl/) is required to install from source*
 
 ``` sh
-$ go get -v github.com/jpillora/cloud-torrent
+$ go get -v github.com/vineet9/torrent
 ```
 
 **Docker**
 
 ``` sh
-$ docker run -d -p 3000:3000 -v /path/to/my/downloads:/downloads jpillora/cloud-torrent
+$ docker run -d -p 3000:3000 -v /path/to/my/downloads:/downloads vineet9/torrent
 ```
 
 **Heroku**
